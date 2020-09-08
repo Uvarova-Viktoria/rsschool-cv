@@ -1,20 +1,22 @@
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Uvarova Viktoria | rsschool-cv</title>
-    <link rel="canonical" href="https://uvarova-viktoria.github.io/rsschool-cv/cv.html" />
-    
-  </head>
+
+
   <body>
+    <style>
+      body {
+        margin-left: 50px;
+
+      }
+      a{
+        text-decoration: none;
+        color: #0BE;
+      }
+      p{
+        max-width: 700px;
+      }
+    </style>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://uvarova-viktoria.github.io/rsschool-cv/">rsschool-cv</a></h1>
-      
-
       <h1 id="uvarova-viktoria">Uvarova Viktoria</h1>
 
       <h2>Contact Info:</h2>
@@ -49,4 +51,4 @@
       <h2>English</h2>
         <p>Intermediate level</p>
   </body>
-</html>
+
